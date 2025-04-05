@@ -1,8 +1,4 @@
 
----
-
-### ✅ **Fixed Version – Copy-Paste Ready:**
-
 # YEET THE VIDEO 🎬💥
 
 > Paste a link. Yeet it. That's it.  
