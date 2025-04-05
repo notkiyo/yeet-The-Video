@@ -1,0 +1,20 @@
+[project]
+name = "yeet The Video"
+version = "0.1.0"
+description = "just a simple yt, insta, etc downloder with gui"
+authors = [
+    {name = "kiyo",email = "kiyo-dum@proton.me"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pillow (>=11.1.0,<12.0.0)",
+    "customtkinter (>=5.2.2,<6.0.0)",
+    "yt-dlp (>=2025.3.31,<2026.0.0)",
+    "requests (>=2.32.3,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
