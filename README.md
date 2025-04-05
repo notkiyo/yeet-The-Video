@@ -3,13 +3,12 @@
 
 ### ✅ **Fixed Version – Copy-Paste Ready:**
 
-```markdown
 # YEET THE VIDEO 🎬💥
 
 > Paste a link. Yeet it. That's it.  
 > Built by someone who said "lemme make a GUI" and has zero idea how to.
 
-![yeet](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
+![yeet](https://media.tenor.com/bmz3rtJh59kAAAAi/question-mark.gif)
 
 ---
 
