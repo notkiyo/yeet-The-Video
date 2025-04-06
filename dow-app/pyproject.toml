@@ -1,5 +1,5 @@
 [project]
-name = "yeet The Video"
+name = "yeet-The-Video"
 version = "0.1.0"
 description = "just a simple yt, insta, etc downloder with gui"
 authors = [
